@@ -1,6 +1,6 @@
 # Group 10 member:
-- Suhailah Arfan (1313620022)
-- Nindy Wahyu Setyaningsih (1313620030)
+- [Suhailah Arfan](https://github.com/suhailarfan) (1313620022)
+- [Nindy Wahyu Setyaningsih](https://github.com/nindywahyu) (1313620030)
 - Tiara Salsa Ghina (1313620040)
 
 # High-n-Jar
