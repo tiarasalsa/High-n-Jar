@@ -14,7 +14,7 @@ Di dalam kolom review High n Jar terdapat :
 - Periode pemakaian dari konsumen
 - Nilai Produk(dalam bentuk persentase)
 
-Beauty vlogger terpercaya kami:
+Berikut daftar Beauty vlogger terpercaya kami yang akan membagikan pengalaman mereka:
 - Tasya Farasya
 - Indira Khalista
 - Suhay Salim
