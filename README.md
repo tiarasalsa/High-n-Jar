@@ -21,6 +21,6 @@ Beauty vlogger terpercaya kami:
 - Nanda Arsyinta
 - Niki Tutorial
 - Tati
-- James Charles
+- James Charless
 - Jeffry Star
 
