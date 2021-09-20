@@ -1,7 +1,7 @@
 # Group 10 member:
 - Suhailah Arfan (1313620022)
 - Nindy Wahyu Setyaningsih (1313620030)
-- Tiara Salsa Ghina (1313620040)
+- [Tiara Salsa Ghina](https://github.com/tiarasalsa) (1313620040)
 
 # High-n-Jar
 Beauty Product Review
