@@ -6,7 +6,9 @@
 # High-n-Jar
 Beauty Product Review
 
-High n Jar merupakan website yang bergerak di bidang kecantikan yang berisi review dari para konsumen dan beauty vlogger terpercaya. 
+Product skincare high end merupakan product yang memiliki berjuta peminat, namun seringkali konsumen merasa kecewa dengan hasil yang didapat dibandingkan dengan harga yang dibayar. Ditambah lagi banyaknya peminat product high end dari kalangan remaja sehingga perlu bimbingan lebih dalam memilah produk kecantikan yang cocok untuk dirinya masing-masing sebelum mengeluarkan budget yang besar. Oleh karena itu High N Jar menyediakan berbagai fitur pelayanan yang bergerak dibidang kecantikan untuk meminamilisir kekecewaan konsumen terhadap produk kecantikan high end yang sudah terlanjur dibeli. Seperti contohnya kami menyediakan review dari berbagai beauty vlogger terpercaya dari dalam dan luar negeri, selain itu kami juga menyediakan tempat untuk para konsumen bertukar pengalaman selama pemakaian produk tersebut. Setelah para konsumen membaca review dan kemudian ingin mencoba produk yang tertera di website kami, maka website kami akan memberikan pilihan untuk membeli produk. Namun sebelum para konsumen membeli produk dengan budget yang cukup tinggi, kami menyediakan produk dalam bentuk share in jar. 
+
+High n Jar merupakan website yang bergerak di bidang kecantikan yang berisi review dari para konsumen dan beauty vlogger terpercaya.
 
 High n Jar juga menyediakan produk skincare high end dalam bentuk share in jar.
 
@@ -28,3 +30,4 @@ List Beauty Vlogger :
 - Jeffry Star
 
 High n Jar akan mengarahkan user yang tertarik dengan review yang tertulis di website High n Jar, untuk membeli produk share in jar yang kami tawarkan.
+
